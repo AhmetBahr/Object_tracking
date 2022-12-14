@@ -1,0 +1,1 @@
+First Push = Obje hareketi kodları yazıldı hareket eden nesneleri yeşil kare içine alarak sayaç ile sayıyor
